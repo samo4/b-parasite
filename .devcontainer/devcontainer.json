@@ -6,7 +6,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"nordic-semiconductor.nrf-connect"
+				"nordic-semiconductor.nrf-connect",
+				"editorconfig.editorconfig",
+				"github.copilot"
 			]
 		}
 	}
